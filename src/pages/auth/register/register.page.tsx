@@ -137,8 +137,8 @@ const RegisterPage = () => {
               </form>
               <p className="flex gap-1 px-5 text-sm font-medium">
                 Already have an account?
-                <NavLink to="/login" className="text-teal-800 underline italic hover:cursor-pointer">
-                  Login here!
+                <NavLink to="/" className="text-teal-800 underline italic hover:cursor-pointer">
+                  Login Here
                 </NavLink>
               </p>
             </div>
